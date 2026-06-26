@@ -57,6 +57,22 @@ To design and implement an automated lighting system that:
 | Cathode (-) | GND                          |
 
 ---
+## Circuit Diagram
+
+![Circuit Diagram](Circuit_diagram.png)
+
+## Project Report
+
+The detailed project report is available here:
+
+[📄 Smart Lighting Report](Smart_lighting_using_ESP32.docx)
+
+## Source Code
+
+The Arduino source code is available here:
+
+[💻 Smart Lighting Code](Smart_lighting_monitoring_system_using_ESP32.ino)
+
 
 ## ⚙️ Working Principle
 
