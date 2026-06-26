@@ -73,7 +73,9 @@ The Arduino source code is available here:
 
 [💻 Smart Lighting Code](Smart_lighting_monitoring_system_using_ESP32.ino)
 
+### Working Output
 
+![Working Output](Serial_Output.png)
 ## ⚙️ Working Principle
 
 The LDR sensor continuously detects the surrounding light intensity and sends analog values to the ESP32 through GPIO34.
