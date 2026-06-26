@@ -76,6 +76,7 @@ The Arduino source code is available here:
 ### Working Output
 
 ![Working Output](Serial_Output.png)
+
 ## ⚙️ Working Principle
 
 The LDR sensor continuously detects the surrounding light intensity and sends analog values to the ESP32 through GPIO34.
